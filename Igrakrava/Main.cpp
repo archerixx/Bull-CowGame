@@ -24,7 +24,7 @@ void PrintGameSummary();
 int main() {
 
 	
-
+	std::cout << "Enter your hidden word: ";
 
 
 	do {
